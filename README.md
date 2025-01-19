@@ -37,7 +37,7 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
 ## Projects
 * Collaboration of two manipulators and a Turtlebot in a warehouse
 
- ## Publications
+## Publications
 
 * **Journal Articles:**
   * A. Mazen, M. Faied, and M. Krishnan, “Multi-robot trajectory optimization using b´ezier curve,” IEEE
