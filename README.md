@@ -2,7 +2,7 @@
 Assistant Professor, Applied Computing, Michigan Technological University
 
 Assistant Professor, Manufacturing and Mechanical Engineering Technology, Michigan Technological University
-[Link Text](URL)
+
  [Google Scholar](https://scholar.google.com/citations?user=gAifF_oAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/amna-mazen-a73755a7) • CV 
 
 ## Biography
@@ -27,6 +27,9 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
   * Image Forensic
   * Energy Management
 
+
+## Projects
+* Collaboration of two manipulators and a Turtlebot in a warehouse
 
  ## Publications
 
