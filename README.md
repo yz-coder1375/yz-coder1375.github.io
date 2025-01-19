@@ -1,7 +1,7 @@
 # Amna Mazan, Ph.D.
-Assistant Professor, Applied Computing, Michigan Technological University
+* **Assistant Professor, Applied Computing, Michigan Technological University**
 
-Assistant Professor, Manufacturing and Mechanical Engineering Technology, Michigan Technological University
+* **Assistant Professor, Manufacturing and Mechanical Engineering Technology, Michigan Technological University**
 
 <div align="center">
     • <a href="https://scholar.google.com/citations?user=gAifF_oAAAAJ&hl=en">Google Scholar</a> • 
