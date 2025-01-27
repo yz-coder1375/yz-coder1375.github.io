@@ -1,3 +1,10 @@
+
+<figure>
+<p align="center">
+<img width="400" alt="" src="/Assets/images/Amna-Mazen.png">
+</p>
+</figure>
+
 # Amna Mazan, Ph.D.
 * **Assistant Professor, Applied Computing, Michigan Technological University**
 
