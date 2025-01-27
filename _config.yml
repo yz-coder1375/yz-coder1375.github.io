@@ -2,4 +2,5 @@ title: Amna Mazen
 logo: /Assets/images/Amna-Mazen-modified-smaller1.png
 description: Assistant Professor at Michigan Technological University
 show_downloads: true
-theme: jekyll-theme-minimal
+google_analytics:
+theme: jekyll-theme-cayman
