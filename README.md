@@ -45,16 +45,33 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
 <table>
   <tr>
     <td align="center">
-      <img src="/Assets/images/soccer (1).jpeg" alt="Image 1" width="320" height="250" ><br>
+      <img src="/Assets/images/soccer (1).jpeg" alt="Image 1" width="320" height="230" ><br>
       <b>(a) Trajectory optimization in soccer game using BTP. </b>
     </td>
     <td align="center">
-      <img src="/Assets/images/thumbnail_PHOTO-2023-07-08-20-25-39 (1).jpg" alt="Image 2" width="320" height="250"><br>
+      <img src="/Assets/images/thumbnail_PHOTO-2023-07-08-20-25-39 (1).jpg" alt="Image 2" width="320" height="230"><br>
       <b>(b) Package delivery using multiple robots collaboration</b>
     </td>
     <td align="center">
-      <img src="/Assets/images/real_environments.png" alt="Image 3" width="320" height="250"><br>
+      <img src="/Assets/images/real_environments.png" alt="Image 3" width="320" height="230"><br>
       <b>(c) Tuning of Robot Navigation Performance Using Factorial Design.</b>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="/Assets/images/right_turn_obs.png" alt="Image 4" width="320" height="230" ><br>
+      <b>(d) Intersection mobility for Polaris car. </b>
+    </td>
+    <td align="center">
+      <img src="/Assets/images/Work_flow.jpg" alt="Image 5" width="320" height="230"><br>
+      <b>(e) Workflow of the proposed occupancy detection  model
+    </td>
+    <td align="center">
+      <img src="/Assets/images/model Arch Excel.jpg" alt="Image 6" width="320" height="230"><br>
+      <b>(f) The proposed framework for classifying kissing bugs.</b>
     </td>
   </tr>
 </table>
