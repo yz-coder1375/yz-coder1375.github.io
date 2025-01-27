@@ -1,7 +1,7 @@
 
 <figure>
 <p align="center">
-<img width="400" alt="" src="/Assets/images/Amna-Mazen.png">
+<img width="400" alt="" src="/Assets/images/Amna-Mazen-modified-small.png">
 </p>
 </figure>
 
