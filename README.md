@@ -64,7 +64,7 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
     </td>
     <td align="center">
       <img src="/Assets/images/Work_flow.jpg" alt="Image 5" width="320" height="230"><br>
-      <b>(e) Workflow of the proposed occupancy detection  model
+      <b>(e) Workflow of the proposed occupancy detection model</b>
     </td>
     <td align="center">
       <img src="/Assets/images/model Arch Excel.jpg" alt="Image 6" width="320" height="230"><br>
@@ -72,6 +72,7 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
     </td>
   </tr>
 </table>
+
 
 
 
