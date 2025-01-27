@@ -4,17 +4,18 @@
 <img width="400" alt="" src="/Assets/images/Amna-Mazen-modified-circle2.png">
 </p>
 </figure>
+<div align="center">
+    • <a href="https://scholar.google.com/citations?user=gAifF_oAAAAJ&hl=en">Google Scholar</a> • 
+    <a href="https://www.linkedin.com/in/amna-mazen-a73755a7">LinkedIn</a> • 
+    CV
+</div>
 
 # Amna Mazan, Ph.D.
 * **Assistant Professor, Applied Computing, Michigan Technological University**
 
 * **Assistant Professor, Manufacturing and Mechanical Engineering Technology, Michigan Technological University**
 
-<div align="center">
-    • <a href="https://scholar.google.com/citations?user=gAifF_oAAAAJ&hl=en">Google Scholar</a> • 
-    <a href="https://www.linkedin.com/in/amna-mazen-a73755a7">LinkedIn</a> • 
-    CV
-</div>
+
 
  
 
