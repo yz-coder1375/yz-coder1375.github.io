@@ -1,7 +1,7 @@
 
 <figure>
 <p align="center">
-<img width="400" alt="" src="/Assets/images/Amna-Mazen-modified-small.png">
+<img width="400" alt="" src="/Assets/images/Amna-Mazen-modified-circle2.png">
 </p>
 </figure>
 
@@ -42,7 +42,23 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
 
 
 ## Projects
-* Collaboration of two manipulators and a Turtlebot in a warehouse
+<table>
+  <tr>
+    <td align="center">
+      <img src="/Assets/images/soccer (1).jpeg" alt="Image 1" width="320" height="250" ><br>
+      <b>(a) Trajectory optimization in soccer game using BTP. </b>
+    </td>
+    <td align="center">
+      <img src="/Assets/images/thumbnail_PHOTO-2023-07-08-20-25-39 (1).jpg" alt="Image 2" width="320" height="250"><br>
+      <b>(b) Package delivery using multiple robots collaboration</b>
+    </td>
+    <td align="center">
+      <img src="/Assets/images/real_environments.png" alt="Image 3" width="320" height="250"><br>
+      <b>(c) Tuning of Robot Navigation Performance Using Factorial Design.</b>
+    </td>
+  </tr>
+</table>
+
 
 ## Publications
 
