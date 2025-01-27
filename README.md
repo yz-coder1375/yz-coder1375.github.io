@@ -57,9 +57,6 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
       <b>(c) Tuning of Robot Navigation Performance Using Factorial Design.</b>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td align="center">
       <img src="/Assets/images/right_turn_obs.png" alt="Image 4" width="320" height="230" ><br>
@@ -75,6 +72,8 @@ Dr. Mazen is a highly motivated researcher with a robust background in electrica
     </td>
   </tr>
 </table>
+
+
 
 
 ## Publications
